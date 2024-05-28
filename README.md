@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## 🛠 Languages and Tools
 
-<!-- For Python -->
-<img align="left" alt="Python" width="44px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
+<!-- For Ruby -->
+<img align="left" alt="Ruby" width="44px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
 
 <!-- For Pandas -->
 <img align="left" alt="Pandas" width="26px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/pandas_logo.png" />
