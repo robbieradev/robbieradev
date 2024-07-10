@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robbie Radev! 😸</h1>
-<h3 align="center">A passionate Junior Full Stack Web Developer based between Glasgow, UK and Plovdiv, Bulgaria.</h3>
+<h3 align="center">A passionate junior full stack web developer based between Glasgow, UK and Plovdiv, Bulgaria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbieradev&label=Profile%20views&color=0e75b6&style=flat" alt="robbieradev" /> </p>
 
@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robbieradev&show_icons=true&locale=en&layout=compact" alt="robbieradev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robbieradev&show_icons=true&locale=en" alt="robbieradev" /></p>
+
